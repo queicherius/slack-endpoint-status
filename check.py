@@ -17,7 +17,7 @@ def check_endpoints():
 
 
 # Check if a url is reachable and matches the content checking function
-def check_endpoint(url, check_function, json_response=True):
+def check_endpoint(url, check_function=False, json_response=True):
 
     try:
         response = requests.get(url=url)

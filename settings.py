@@ -1,5 +1,5 @@
 # The Slack webhook URL
-webhook = 'https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX'
+webhook = 'https://hooks.slack.com/services/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'
 
 # The Slack channel to post in
 channel = '#api-status'
