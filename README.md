@@ -10,6 +10,8 @@ Get status messages of your endpoints in Slack.
 
 ## Install
 
+This script requires Python 2.7
+
 ```bash
 # Clone the repository and install dependencies
 git clone https://github.com/queicherius/slack-endpoint-status.git
@@ -26,8 +28,4 @@ nano settings.py
 python check.py
 ```
 
-If you want the script to run permanently in the background, you can run
-
-```bash
-# TODO
-```
+If you want the script to run in the background, you can run `nohup python -u check.py &` or use a tool like `monit`.
