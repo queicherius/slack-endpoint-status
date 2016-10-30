@@ -1,5 +1,7 @@
 # Slack Endpoint Status
 
+[![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-%E2%9C%95-red.svg?style=flat-square)](http://unmaintained.tech/)
+
 Get status messages of your endpoints in Slack.
 
 ## Features
