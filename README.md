@@ -1,6 +1,8 @@
-# Slack Endpoint Status
+### :boom: Careful: This is no longer maintained and is only here for historic reasons. This means you should very likely not use it. You have been warned. :boom:
 
-[![No Maintenance Intended](https://img.shields.io/badge/No%20Maintenance%20Intended-%E2%9C%95-red.svg?style=flat-square)](http://unmaintained.tech/)
+---
+
+# Slack Endpoint Status
 
 Get status messages of your endpoints in Slack.
 
